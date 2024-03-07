@@ -1,0 +1,51 @@
+id,hostname,ip_address,vulnerability,cvss_score
+1,server1,192.168.1.10,SQL injection,7.8
+2,server2,10.0.0.2,Open SSH weak ciphers,6.5
+3,workstation1,172.16.0.5,Missing security updates,5.2
+4,workstation2,10.0.0.5,Unnecessary services running,4.8
+5,server3,192.168.1.20,Cross-site scripting,8.3
+6,device1,192.168.2.15,Weak password policy,6.2
+7,server4,10.0.0.8,Outdated firewall rules,5.6
+8,workstation3,172.16.0.10,LDAP injection,7.1
+9,server5,192.168.1.30,Insecure file permissions,4.5
+10,router1,10.0.0.15,Buffer overflow,9.0
+11,device2,192.168.2.20,SSL/TLS vulnerabilities,6.8
+12,server6,10.0.0.12,Outdated software version,5.9
+13,workstation4,172.16.0.15,Brute force attack vulnerability,7.4
+14,server7,192.168.1.40,Weak encryption algorithms,6.0
+15,firewall1,10.0.0.25,Cross-Site Request Forgery (CSRF),8.1
+16,device3,192.168.2.25,Security misconfigurations,5.3
+17,server8,10.0.0.18,Denial of Service (DoS) susceptibility,7.9
+18,workstation5,172.16.0.20,Phishing attack vulnerability,6.6
+19,server9,192.168.1.50,Session fixation,8.6
+20,router2,10.0.0.30,SQL injection,7.2
+21,device4,192.168.2.30,Open SSL/TLS vulnerabilities,6.4
+22,server10,10.0.0.22,Cross-site scripting,8.9
+23,workstation6,172.16.0.25,Missing security updates,5.1
+24,server11,192.168.1.60,Unnecessary services running,4.7
+25,firewall2,10.0.0.35,Weak password policy,6.7
+26,device5,192.168.2.35,Outdated firewall rules,5.5
+27,server12,10.0.0.28,LDAP injection,7.0
+28,workstation7,172.16.0.30,Insecure file permissions,4.8
+29,server13,192.168.1.70,Buffer overflow,8.5
+30,router3,10.0.0.40,SSL/TLS vulnerabilities,6.3
+31,device6,192.168.2.40,Outdated software version,5.7
+32,server14,10.0.0.32,Brute force attack vulnerability,7.3
+33,workstation8,172.16.0.35,Weak encryption algorithms,6.1
+34,server15,192.168.1.80,Cross-Site Request Forgery (CSRF),8.0
+35,firewall3,10.0.0.45,Security misconfigurations,5.4
+36,device7,192.168.2.45,Denial of Service (DoS) susceptibility,7.8
+37,server16,10.0.0.38,Phishing attack vulnerability,6.9
+38,workstation9,172.16.0.40,Session fixation,8.4
+39,server17,192.168.1.90,SQL injection,7.5
+40,router4,10.0.0.50,Open SSL/TLS vulnerabilities,6.2
+41,device8,192.168.2.50,Cross-site scripting,8.7
+42,server18,10.0.0.42,Missing security updates,5.0
+43,workstation10,172.16.0.45,Unnecessary services running,4.6
+44,server19,192.168.1.100,Weak password policy,6.6
+45,firewall4,10.0.0.55,Outdated firewall rules,5.3
+46,device9,192.168.2.55,LDAP injection,7.2
+47,server20,10.0.0.48,Insecure file permissions,4.9
+48,workstation11,172.16.0.50,Buffer overflow,8.2
+49,server21,192.168.1.110,SSL/TLS vulnerabilities,6.1
+50,router5,10.0.0.60,Outdated software version,5.8

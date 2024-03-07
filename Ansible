@@ -1,0 +1,12 @@
+# playbook.yml
+
+- hosts: all
+  tasks:
+    - name: Update and upgrade apt packages
+      apt:
+        upgrade: yes
+        update_cache: yes
+        cache_valid_time: 86400  # One day
+      become: yes
+
+    # Add more tasks for your specific setup and deployment needs

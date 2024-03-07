@@ -1,0 +1,208 @@
+[
+    {
+      "name": "Server 1",
+      "ip_address": "192.168.1.10",
+      "criticality": "Critical"
+    },
+    {
+      "name": "Server 2",
+      "ip_address": "192.168.1.11",
+      "criticality": "High"
+    },
+    {
+      "name": "Workstation 1",
+      "ip_address": "192.168.1.12",
+      "criticality": "Medium"
+    },
+    {
+      "name": "Database Server",
+      "ip_address": "192.168.1.13",
+      "criticality": "Critical"
+    },
+    {
+      "name": "Web Server",
+      "ip_address": "192.168.1.14",
+      "criticality": "Low"
+    },
+    {
+      "name": "Backup Server",
+      "ip_address": "192.168.1.15",
+      "criticality": "High"
+    },
+    {
+      "name": "Storage Server",
+      "ip_address": "192.168.1.16",
+      "criticality": "Medium"
+    },
+    {
+      "name": "Printer 1",
+      "ip_address": "192.168.1.17",
+      "criticality": "Low"
+    },
+    {
+      "name": "Router",
+      "ip_address": "192.168.1.18",
+      "criticality": "Critical"
+    },
+    {
+      "name": "Switch 1",
+      "ip_address": "192.168.1.19",
+      "criticality": "High"
+    },
+    {
+      "name": "Server 3",
+      "ip_address": "192.168.1.20",
+      "criticality": "Medium"
+    },
+    {
+      "name": "Workstation 2",
+      "ip_address": "192.168.1.21",
+      "criticality": "Low"
+    },
+    {
+      "name": "Firewall",
+      "ip_address": "192.168.1.22",
+      "criticality": "High"
+    },
+    {
+      "name": "Access Point",
+      "ip_address": "192.168.1.23",
+      "criticality": "Critical"
+    },
+    {
+      "name": "Server 4",
+      "ip_address": "192.168.1.24",
+      "criticality": "Low"
+    },
+    {
+      "name": "Workstation 3",
+      "ip_address": "192.168.1.25",
+      "criticality": "Medium"
+    },
+    {
+      "name": "Backup Storage",
+      "ip_address": "192.168.1.26",
+      "criticality": "High"
+    },
+    {
+      "name": "Switch 2",
+      "ip_address": "192.168.1.27",
+      "criticality": "Low"
+    },
+    {
+      "name": "Server 5",
+      "ip_address": "192.168.1.28",
+      "criticality": "Critical"
+    },
+    {
+      "name": "Workstation 4",
+      "ip_address": "192.168.1.29",
+      "criticality": "High"
+    },
+    {
+      "name": "Web Application Server",
+      "ip_address": "192.168.1.30",
+      "criticality": "Medium"
+    },
+    {
+      "name": "Printer 2",
+      "ip_address": "192.168.1.31",
+      "criticality": "Low"
+    },
+    {
+      "name": "Server 6",
+      "ip_address": "192.168.1.32",
+      "criticality": "High"
+    },
+    {
+      "name": "Storage Array",
+      "ip_address": "192.168.1.33",
+      "criticality": "Critical"
+    },
+    {
+      "name": "Switch 3",
+      "ip_address": "192.168.1.34",
+      "criticality": "Low"
+    },
+    {
+      "name": "Router 2",
+      "ip_address": "192.168.1.35",
+      "criticality": "Medium"
+    },
+    {
+      "name": "Server 7",
+      "ip_address": "192.168.1.36",
+      "criticality": "Low"
+    },
+    {
+      "name": "Workstation 5",
+      "ip_address": "192.168.1.37",
+      "criticality": "High"
+    },
+    {
+      "name": "Database Server 2",
+      "ip_address": "192.168.1.38",
+      "criticality": "Medium"
+    },
+    {
+      "name": "Web Server 2",
+      "ip_address": "192.168.1.39",
+      "criticality": "Low"
+    },
+    {
+      "name": "Server 8",
+      "ip_address": "192.168.1.40",
+      "criticality": "Critical"
+    },
+    {
+      "name": "Workstation 6",
+      "ip_address": "192.168.1.41",
+      "criticality": "High"
+    },
+    {
+      "name": "Backup Server 2",
+      "ip_address": "192.168.1.42",
+      "criticality": "Medium"
+    },
+    {
+      "name": "Storage Server 2",
+      "ip_address": "192.168.1.43",
+      "criticality": "Low"
+    },
+    {
+      "name": "Printer 3",
+      "ip_address": "192.168.1.44",
+      "criticality": "High"
+    },
+    {
+      "name": "Router 3",
+      "ip_address": "192.168.1.45",
+      "criticality": "Critical"
+    },
+    {
+      "name": "Switch 4",
+      "ip_address": "192.168.1.46",
+      "criticality": "Low"
+    },
+    {
+      "name": "Server 9",
+      "ip_address": "192.168.1.47",
+      "criticality": "Medium"
+    },
+    {
+      "name": "Workstation 7",
+      "ip_address": "192.168.1.48",
+      "criticality": "Low"
+    },
+    {
+      "name": "Firewall 2",
+      "ip_address": "192.168.1.49",
+      "criticality": "High"
+    },
+    {
+      "name": "Access Point 2",
+      "ip_address": "192.168.1.50",
+      "criticality": "Critical"
+    }
+  ]
+  
